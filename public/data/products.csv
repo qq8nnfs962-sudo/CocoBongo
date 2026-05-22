@@ -1,0 +1,97 @@
+id,name,category,description,recommended_styles,recommended_palettes
+1,CryptoDesk Pro,Fintech,Professional cryptocurrency trading dashboard with real-time data,Glassmorphism;Dark OLED,Midnight Crypto;Neon City
+2,PayFlow,Fintech,Seamless payment processing platform for businesses,Minimalism;Clean Grid,Ocean Depth;Steel Blue
+3,WealthManager,Fintech,Personal wealth and investment management app,Neumorphism;Soft UI,Deep Purple;Indigo Depths
+4,TradePulse,Fintech,High-frequency trading analytics and signals platform,Data-Dense;Brutalism,Carbon Black;Obsidian
+5,BankKit,Fintech,Digital banking platform with full feature set,Clean Grid;Minimalism,Arctic Pulse;Nordic Blue
+6,LoanLens,Fintech,AI-powered loan underwriting and decisioning system,Swiss Style;Minimalism,Slate Minimal;Pearl White
+7,InsureNow,Fintech,Digital insurance comparison and management platform,Soft UI;Clean Grid,Sea Salt;Cool Gray Pro
+8,TaxGenius,Fintech,Intelligent tax preparation and filing software,Minimalism;Clean Grid,Frost White;Arctic Ice
+9,NeuralChat,AI SaaS,Conversational AI platform with fine-tuning capabilities,AI-Native UI;Glassmorphism,Midnight Crypto;Deep Purple
+10,PromptStudio,AI SaaS,Professional prompt engineering and management tool,AI-Native UI;Minimalism,Stellar Black;Carbon Black
+11,DataSynth,AI SaaS,AI data synthesis and augmentation platform,Data-Dense;AI-Native UI,Matrix Green;Cyber Green
+12,ModelHub,AI SaaS,Model registry and serving platform for ML teams,Swiss Style;Minimalism,Slate Minimal;Cool Gray Pro
+13,VisionAPI,AI SaaS,Computer vision API platform for developers,AI-Native UI;Brutalism,Neon City;Electric Blue
+14,SpeechForge,AI SaaS,Voice AI and speech synthesis SaaS platform,AI-Native UI;Gradient Glass,Aurora Borealis;Electric Violet
+15,DocuAI,AI SaaS,Intelligent document processing and extraction service,Minimalism;Clean Grid,Pearl White;Sea Salt
+16,CopilotKit,AI SaaS,Developer toolkit for building AI-powered applications,Swiss Style;Minimalism,Carbon Black;Obsidian
+17,MediChart,Healthcare,Electronic health records and patient management,Soft UI;Minimalism,Mint Fresh;Teal Clarity
+18,HealthTrack,Healthcare,Patient health monitoring and wellness platform,Neumorphism;Soft UI,Meadow Green;Jade Emperor
+19,CareConnect,Healthcare,Telemedicine and virtual care coordination platform,Clean Grid;Soft UI,Arctic Pulse;Sky High
+20,PharmaScan,Healthcare,Prescription management and drug interaction checker,Minimalism;Swiss Style,Pearl White;Cool Gray Pro
+21,ClinicalDash,Healthcare,Clinical trial management and reporting dashboard,Data-Dense;Minimalism,Steel Blue;Nordic Blue
+22,MentalSpace,Healthcare,Mental health therapy and meditation app,Soft UI;Organic Biophilic,Lavender Dream;Pastel Dream
+23,NutriGuide,Healthcare,AI-powered nutrition tracking and meal planning,Claymorphism;Minimalism,Forest Mist;Meadow Green
+24,VitalWatch,Healthcare,Remote patient monitoring IoT dashboard,Data-Dense;Neumorphism,Teal Clarity;Ocean Wave
+25,LearnPath,E-Learning,Adaptive learning management system with AI tutoring,Claymorphism;Vibrant,E-Learning;Bubblegum Pop
+26,SkillForge,E-Learning,Professional skills development and certification platform,Minimalism;Clean Grid,Cool Gray Pro;Nordic Blue
+27,EduVerse,E-Learning,Immersive VR-ready e-learning environment,3D Hyperrealism;Gradient Glass,Aurora Borealis;Electric Violet
+28,CodeAcademy Pro,E-Learning,Interactive coding bootcamp and curriculum platform,Swiss Style;Minimalism,Carbon Black;Cyber Green
+29,LangBridge,E-Learning,Language learning app with AI conversation partner,Claymorphism;Friendly,Mint Fresh;Morning Dew
+30,MathMaster,E-Learning,Gamified mathematics education platform,Claymorphism;Energetic Bold,Blazing Orange;Mango Tango
+31,StudyBuddy,E-Learning,Collaborative study and flashcard sharing platform,Claymorphism;Friendly,Lavender Dream;Pastel Dream
+32,LuxeShop,E-Commerce,Premium luxury goods marketplace and boutique,Liquid Glass;Glassmorphism,Champagne Gold;Golden Hour
+33,StyleVault,E-Commerce,Fashion and apparel marketplace with AI styling,Editorial;Gradient Glass,Rose Quartz;Sakura Pink
+34,TechMart,E-Commerce,Consumer electronics marketplace and comparison,Minimalism;Clean Grid,Slate Minimal;Steel Blue
+35,GourmetBox,E-Commerce,Artisan food and beverage subscription service,Warm Organic;Claymorphism,Warm Sand;Cinnamon Toast
+36,HomeNest,E-Commerce,Smart home and interior design marketplace,Soft UI;Clean Grid,Pearl White;Sage Green
+37,CraftHub,E-Commerce,Handmade goods marketplace for artisans,Warm Organic;Organic Biophilic,Terra Cotta;Maple Syrup
+38,BookShelf,E-Commerce,Digital and physical book marketplace,Editorial;Minimalism,Champagne Gold;Warm Sand
+39,FitGear,E-Commerce,Athletic and fitness equipment marketplace,Energetic Bold;Bold Color,Blazing Orange;Blood Orange
+40,ShadowBlade,Gaming,Action RPG with dark fantasy art direction,Dark Neon;3D Hyperrealism,Midnight Crypto;Dark Matter
+41,RaceVault,Gaming,Competitive racing simulation and leaderboards,Retro-Futurism;3D Hyperrealism,Blazing Orange;Blood Orange
+42,GameHub,Gaming,Gaming community and social platform,3D Hyperrealism;Gradient Glass,Neon City;Galaxy Purple
+43,ArenaStats,Gaming,Esports statistics and tournament management,Data-Dense;Brutalism,Carbon Black;Neon City
+44,PixelRealm,Gaming,Indie game discovery and crowdfunding platform,Retro-Futurism;Bold Color,Deep Purple;Electric Violet
+45,QuestBoard,Gaming,MMO quest tracking and guild management,Dark OLED;Glassmorphism,Midnight Crypto;Velvet Night
+46,StreamDeck,Gaming,Game streaming setup and overlay management tool,Gradient Glass;Dark OLED,Neon City;Electric Violet
+47,SocialSphere,Social,Community building and social networking platform,Gradient Glass;Bold Color,Neon City;Aurora Borealis
+48,CreatorStudio,Social,Content creator workspace and analytics dashboard,Gradient Glass;Minimalism,Electric Violet;Deep Purple
+49,VoiceCircle,Social,Audio social networking and podcast platform,Soft UI;Glassmorphism,Lavender Dream;Ice Crystal
+50,ThreadWeave,Social,Long-form discussion and community platform,Clean Grid;Minimalism,Slate Minimal;Cool Gray Pro
+51,SnapGrid,Social,Photo sharing and visual discovery network,Editorial;Gradient Glass,Rose Quartz;Sakura Pink
+52,EventSphere,Social,Event discovery and social planning platform,Bold Color;Gradient Glass,Sunset Blaze;Tangerine Pop
+53,GreenMetrics,Sustainability,ESG reporting and sustainability metrics platform,Organic Biophilic;Minimalism,Forest Mist;Sage Green
+54,CarbonTrack,Sustainability,Carbon footprint tracking for enterprises,Swiss Style;Minimalism,Bamboo Forest;Mint Fresh
+55,EcoSupply,Sustainability,Sustainable supply chain management platform,Organic Biophilic;Clean Grid,Meadow Green;Forest Night
+56,RenewableIQ,Sustainability,Renewable energy portfolio management system,Data-Dense;Minimalism,Electric Teal;Ocean Wave
+57,WasteWise,Sustainability,Waste management and circular economy platform,Organic Biophilic;Minimal,Olive Branch;Sage Green
+58,PropertyPulse,Real Estate,Real estate listing and property management platform,Editorial;Clean Grid,Champagne Gold;Warm Sand
+59,MortgageFlow,Real Estate,Digital mortgage origination and processing,Minimalism;Swiss Style,Pearl White;Arctic Pulse
+60,SpaceRent,Real Estate,Commercial space rental and co-working platform,Minimalism;Clean Grid,Slate Minimal;Carbon Black
+61,BuildSpec,Real Estate,Construction project management and BIM platform,Data-Dense;Brutalism,Steel Storm;Volcanic Ash
+62,NeighborMap,Real Estate,Neighborhood data and location intelligence tool,Clean Grid;Minimalism,Sky High;Nordic Blue
+63,TableVibe,Restaurant,Restaurant discovery and reservation platform,Warm Organic;Claymorphism,Warm Sand;Cinnamon Toast
+64,ChefDesk,Restaurant,Restaurant management and POS system,Minimalism;Clean Grid,Carbon Black;Obsidian
+65,FoodFlow,Restaurant,Food delivery and order management platform,Energetic Bold;Bold Color,Blazing Orange;Tangerine Pop
+66,RecipeVault,Restaurant,Culinary recipe management and sharing platform,Warm Organic;Editorial,Maple Syrup;Rustic Brown
+67,BarMetrics,Restaurant,Bar and beverage analytics management system,Data-Dense;Dark OLED,Midnight Crypto;Ember Glow
+68,InsightBoard,Analytics,Business intelligence and data visualization platform,Data-Dense;Minimalism,Carbon Black;Obsidian
+69,MetricPulse,Analytics,Real-time metrics and KPI monitoring dashboard,Data-Dense;Swiss Style,Steel Storm;Slate Minimal
+70,FunnelVis,Analytics,Marketing funnel analysis and conversion optimization,Minimalism;Clean Grid,Electric Blue;Cobalt Blue
+71,SegmentIQ,Analytics,Customer segmentation and behavior analytics,Data-Dense;Brutalism,Dark Matter;Carbon Black
+72,RevTrack,Analytics,Revenue analytics and financial performance platform,Data-Dense;Clean Grid,Indigo Depths;Deep Ocean
+73,WanderLust,Travel,Travel planning and booking platform with AI,Immersive Editorial;Glassmorphism,Ocean Wave;Sky High
+74,HotelFlow,Travel,Hotel management and channel distribution system,Minimalism;Clean Grid,Pearl White;Arctic Pulse
+75,PackLight,Travel,Smart packing and travel prep assistant app,Claymorphism;Friendly,Mint Fresh;Sky High
+76,FlightGraph,Travel,Flight analytics and price prediction tool,Data-Dense;Minimalism,Nordic Blue;Steel Blue
+77,TripSync,Travel,Group travel coordination and itinerary platform,Gradient Glass;Bold Color,Sunset Blaze;Tangerine Pop
+78,TalentPipe,HR,Applicant tracking and talent acquisition platform,Soft UI;Minimalism,Cool Gray Pro;Slate Minimal
+79,PeopleDesk,HR,HR operations and employee management suite,Soft UI;Clean Grid,Pearl White;Arctic Pulse
+80,TeamPulse,HR,Employee engagement and culture analytics,Gradient Glass;Soft UI,Lavender Dream;Pastel Dream
+81,PayrollPro,HR,Payroll processing and compensation management,Minimalism;Swiss Style,Slate Minimal;Pearl White
+82,ReviewCycle,HR,Performance management and 360 review system,Soft UI;Clean Grid,Sea Salt;Frost White
+83,TokenVault,NFT,NFT marketplace with rarity analytics,Dark Neon;Glassmorphism,Neon City;Midnight Crypto
+84,DropAlert,NFT,NFT drop notifications and collection tracker,Dark OLED;Gradient Glass,Deep Purple;Galaxy Purple
+85,ArtChain,NFT,Digital art creation and minting platform,Glassmorphism;Liquid Glass,Aurora Borealis;Galaxy Purple
+86,CollectorIQ,NFT,NFT portfolio management and valuation tools,Dark Neon;Data-Dense,Neon City;Electric Violet
+87,FitnessPal Pro,Fitness,Personal training and workout tracking platform,Energetic Bold;Dark Mode,Blazing Orange;Ember Glow
+88,TrailMaster,Fitness,Outdoor running and hiking route planning app,Organic Biophilic;Energetic Bold,Forest Mist;Meadow Green
+89,GymConnect,Fitness,Gym management and class booking software,Energetic Bold;Clean Grid,Blood Orange;Crimson Dark
+90,NutriCalc,Fitness,Macro tracking and nutrition database app,Minimalism;Clean Grid,Meadow Green;Mint Fresh
+91,RecoverIQ,Fitness,Athletic recovery and HRV monitoring system,Soft UI;Neumorphism,Arctic Pulse;Ice Crystal
+92,DevLaunch,Developer Tools,Developer productivity and deployment automation,Swiss Style;Minimalism,Carbon Black;Matrix Green
+93,APIForge,Developer Tools,API design testing and documentation platform,Minimalism;Swiss Style,Carbon Black;Obsidian
+94,LogSense,Developer Tools,Log aggregation and observability platform,Data-Dense;Brutalism,Carbon Black;Stellar Black
+95,DocuFlow,Developer Tools,Technical documentation platform for teams,Minimalism;Swiss Style,Pearl White;Sea Salt
+96,CodeReview AI,Developer Tools,AI-powered code review and refactoring assistant,AI-Native UI;Minimalism,Carbon Black;Dark Matter

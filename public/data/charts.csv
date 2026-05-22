@@ -1,0 +1,26 @@
+id,name,description,use_case,libraries,complexity
+1,Line Chart,Shows trends over time with connected data points along a continuous axis,Time-series data stock prices website traffic over time,recharts;chart.js;d3;victory,Low
+2,Bar Chart,Compares quantities across discrete categories using rectangular bars,Sales by region product comparison monthly revenue,recharts;chart.js;d3;nivo,Low
+3,Area Chart,Line chart with shaded area below showing cumulative or stacked values,Cumulative revenue user growth stacked metrics,recharts;chart.js;d3;victory,Low
+4,Pie Chart,Shows proportional parts of a whole as slices of a circle,Market share budget allocation category distribution,recharts;chart.js;d3;nivo,Low
+5,Donut Chart,Pie chart variant with hollow center allowing additional metric display,KPI rings with center metric portfolio allocation,recharts;chart.js;d3,Low
+6,Scatter Plot,Displays correlation between two numeric variables as individual points,Feature correlation anomaly detection A/B results,d3;chart.js;recharts;plotly,Medium
+7,Bubble Chart,Scatter plot with third dimension encoded as bubble size,Market sizing portfolio analysis multi-dimensional comparison,d3;plotly;chart.js,Medium
+8,Heatmap,Uses color intensity in a matrix to show data density and patterns,User behavior calendar activity code review frequency,d3;nivo;recharts;visx,Medium
+9,Treemap,Hierarchical data visualized as nested rectangles sized by value,File system visualization market cap by sector,d3;recharts;nivo;visx,High
+10,Sankey Diagram,Flow diagram showing quantities moving between nodes,User journey funnel energy flows budget allocation,d3;plotly;google-charts,High
+11,Funnel Chart,Sequential stages showing drop-off at each conversion point,Sales pipeline conversion rates onboarding flow,recharts;chart.js;funnel-chart,Low
+12,Waterfall Chart,Shows cumulative effect of sequential positive and negative values,Profit-and-loss bridge financial variance analysis,d3;highcharts;chart.js,Medium
+13,Candlestick Chart,Financial chart showing open high low and close prices over time,Stock prices cryptocurrency OHLC trading data,lightweight-charts;d3;highcharts,High
+14,Gantt Chart,Horizontal bar chart showing project schedule and task dependencies,Project planning sprint timelines resource scheduling,dhtmlx-gantt;frappe-gantt;d3,High
+15,Radar Chart,Spider web chart comparing multiple variables across multiple entities,Performance comparison skills assessment athlete stats,recharts;chart.js;d3;visx,Medium
+16,Gauge Chart,Speedometer-style display of a single metric against a target range,KPI progress score indicators health metrics,recharts;d3;chart.js;apexcharts,Medium
+17,Network Graph,Nodes and edges visualizing relationships between entities,Social connections dependency maps knowledge graphs,d3;cytoscape;vis-network;sigma,High
+18,Box Plot,Shows statistical distribution quartiles and outliers in datasets,Statistical analysis A/B test results distribution,d3;plotly;visx;recharts,High
+19,Histogram,Bar chart showing frequency distribution of continuous data,Response time distribution age demographics,recharts;d3;chart.js;nivo,Medium
+20,Chord Diagram,Circular diagram showing interrelationships between multiple groups,Migration flows cross-category relationships,d3;visx,High
+21,Stream Graph,Stacked area chart with smooth curves flowing around a central axis,Topic trends over time genre popularity streams,d3;visx,High
+22,Calendar Heatmap,GitHub-style activity heatmap arranged by day week and month,Contribution history activity tracking daily patterns,cal-heatmap;d3;nivo,Medium
+23,Sunburst Chart,Radial treemap showing hierarchical data in concentric rings,Disk usage website category breakdown org hierarchy,d3;recharts;visx;plotly,High
+24,Parallel Coordinates,Multiple vertical axes with lines showing multi-variable relationships,Multi-dimensional analysis feature comparison,d3;plotly;visx,High
+25,Violin Plot,Combines box plot with density estimation showing distribution shape,Sample distribution comparison statistical analysis,d3;plotly;visx,High

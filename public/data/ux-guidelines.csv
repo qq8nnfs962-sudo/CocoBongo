@@ -1,0 +1,100 @@
+id,title,description,priority,category,tags
+1,Follow Fitts' Law for Interactive Elements,Make clickable targets large enough to be easily hit. Minimum 44x44px for touch targets on mobile devices.,High,Interaction,accessibility;touch;mobile;targets
+2,Use Progressive Disclosure,Reveal information progressively to avoid overwhelming users. Show only what is needed at each step of a task.,High,Visual,information-architecture;cognitive-load;hierarchy
+3,Maintain Consistent Navigation,Keep navigation in the same location across all pages. Users rely on muscle memory and spatial navigation.,High,Navigation,consistency;usability;spatial-memory
+4,Provide Clear Error Messages,Error messages must explain what went wrong and how to fix it. Avoid technical jargon in user-facing errors.,High,Interaction,errors;feedback;recovery;user-trust
+5,Implement Keyboard Navigation,All interactive elements must be accessible via keyboard. Tab order must follow logical visual flow.,High,Accessibility,keyboard;a11y;focus-management;WCAG
+6,Meet Color Contrast Requirements,Maintain minimum 4.5:1 contrast ratio for normal text and 3:1 for large text per WCAG 2.1 AA standards.,High,Accessibility,contrast;WCAG;color;readability
+7,Show Loading States,Always indicate when content is loading. Use skeletons for layout-heavy content and spinners for actions.,High,Performance,loading;feedback;skeleton;user-trust
+8,Confirm Destructive Actions,Always ask for confirmation before irreversible actions like deleting or overwriting data.,High,Interaction,confirmation;safety;destructive-actions
+9,Optimize First Contentful Paint,Target FCP under 1.8 seconds. Users perceive sites as slow if content doesn't appear quickly.,High,Performance,performance;FCP;loading-speed
+10,Use Semantic HTML Elements,Proper semantic HTML improves accessibility screen reader compatibility and SEO simultaneously.,High,Accessibility,semantic-html;screen-readers;SEO;a11y
+11,Design for Thumb Zones on Mobile,Place primary actions in thumb-friendly zones. Critical buttons should not be in the top corners on mobile.,High,Navigation,mobile;thumb-zone;ergonomics;touch
+12,Prevent Form Submission Errors,Validate forms inline as users type. Don't wait until submission to reveal all errors at once.,High,Interaction,forms;validation;inline-feedback;error-prevention
+13,Implement Focus Indicators,Visible focus indicators are required for all interactive elements. Never remove outline without a replacement.,High,Accessibility,focus;a11y;keyboard;WCAG
+14,Reduce Cognitive Load,Limit choices to 5-9 items per group. Break complex tasks into smaller digestible steps.,High,Visual,cognitive-load;chunking;information-architecture
+15,Use System Fonts for Performance,Consider using system font stack for body text to eliminate render-blocking font loads.,Medium,Performance,fonts;performance;render-blocking
+16,Implement Lazy Loading for Images,Defer offscreen image loading to improve initial page load time and reduce bandwidth.,High,Performance,lazy-loading;images;performance
+17,Maintain Visual Hierarchy,Use size color and weight to establish clear hierarchy. The most important element should be most prominent.,High,Visual,hierarchy;typography;size;color
+18,Provide Undo Functionality,Allow users to undo recent actions. This reduces anxiety and encourages exploration.,Medium,Interaction,undo;safety;recovery;user-confidence
+19,Design Empty States,Always design empty states with helpful guidance. Empty states are an opportunity for onboarding.,Medium,Visual,empty-states;onboarding;guidance
+20,Use Meaningful Animations,Animations should reinforce spatial relationships and provide context. Avoid purely decorative motion.,Medium,Visual,animation;motion;purpose;context
+21,Implement Skip Navigation Links,Add skip links for screen reader users to bypass repetitive navigation blocks.,High,Accessibility,skip-links;screen-readers;a11y;navigation
+22,Optimize Touch Target Spacing,Ensure minimum 8px spacing between adjacent touch targets to prevent accidental taps.,High,Interaction,touch;spacing;mobile;ergonomics
+23,Use Consistent Iconography,Icons should follow a consistent style size and stroke weight throughout the application.,Medium,Visual,icons;consistency;visual-language
+24,Provide Alt Text for Images,All informational images must have descriptive alt text. Decorative images should have empty alt attributes.,High,Accessibility,alt-text;images;screen-readers;a11y
+25,Implement Responsive Typography,Use fluid typography that scales proportionally with viewport size using clamp() or viewport units.,Medium,Visual,typography;responsive;fluid;readability
+26,Design for Offline States,Applications should handle network failures gracefully with appropriate offline states and retry mechanisms.,Medium,Performance,offline;network;resilience;error-handling
+27,Use Consistent Spacing Scale,Establish and adhere to a spacing scale (4px or 8px base). Avoid arbitrary spacing values.,Medium,Visual,spacing;grid;consistency;design-tokens
+28,Implement Breadcrumb Navigation,Use breadcrumbs for complex hierarchical navigation to help users understand their location.,Medium,Navigation,breadcrumbs;hierarchy;wayfinding;navigation
+29,Avoid Dark Patterns,Never use deceptive UI patterns like hidden unsubscribe buttons or misleading default selections.,High,Interaction,ethics;dark-patterns;trust;user-rights
+30,Write Microcopy That Guides,Button labels and helper text should describe outcomes not actions. Use "Save changes" not just "Submit".,Medium,Visual,microcopy;copy;labels;clarity
+31,Implement Pagination or Infinite Scroll,For long lists choose between pagination and infinite scroll based on use case. Pagination for searchable content.,Medium,Navigation,pagination;infinite-scroll;lists;performance
+32,Use Card Components Consistently,Cards should have consistent padding corner radius and shadow depth throughout the application.,Medium,Visual,cards;consistency;components;design-system
+33,Design Accessible Form Labels,All form inputs must have visible associated labels. Placeholder text is not a substitute for labels.,High,Accessibility,forms;labels;a11y;screen-readers
+34,Optimize Critical Rendering Path,Inline critical CSS eliminate render-blocking resources and defer non-critical scripts.,High,Performance,CRP;performance;CSS;rendering
+35,Use Motion to Provide Context,Use spatial transitions that match the mental model. Drill-down should slide left; going back should slide right.,Medium,Visual,motion;transitions;spatial;context
+36,Implement Search with Filters,Complex datasets need search combined with filters. Allow users to narrow down large result sets efficiently.,Medium,Navigation,search;filters;discovery;navigation
+37,Design Notification Systems,Notifications should be timely relevant and dismissible. Use appropriate urgency levels (toast info warning error).,Medium,Interaction,notifications;toasts;feedback;urgency
+38,Use Clear Call-to-Action Hierarchy,Each page or screen should have one primary CTA. Secondary actions should be visually subordinate.,High,Visual,CTA;hierarchy;conversion;buttons
+39,Implement Session Persistence,Save user state and preferences across sessions. Don't make users re-configure settings on every visit.,Medium,Interaction,persistence;sessions;state;user-preferences
+40,Design for Right-to-Left Languages,If supporting RTL languages ensure layouts icons and animations all support bidirectional text.,Medium,Accessibility,RTL;i18n;internationalization;a11y
+41,Use Predictive Search,Implement autocomplete for search fields. Reduce user effort by predicting queries from the first few characters.,Medium,Interaction,search;autocomplete;predictive;efficiency
+42,Maintain 60fps Animations,Animations should target 60fps. Use CSS transforms and opacity for best performance. Avoid animating layout properties.,Medium,Performance,animation;performance;60fps;CSS
+43,Implement Role-Based Access,UI should reflect the user's permissions. Don't show controls the user cannot use; hide or disable them contextually.,High,Interaction,RBAC;permissions;security;authorization
+44,Design Accessible Color Communication,Never use color alone to convey information. Always pair with text icons or patterns for color-blind users.,High,Accessibility,color-blindness;a11y;WCAG;color
+45,Use Skeleton Screens for Loading,Skeleton screens reduce perceived load time and prevent layout shift when content loads.,High,Performance,skeleton;loading;performance;UX
+46,Implement Deep Linking,All application states should be bookmarkable via URL. Users should be able to share and return to any state.,High,Navigation,deep-linking;URLs;sharing;navigation
+47,Design for Variable Content,UI components must accommodate varying content lengths. Test with minimum maximum and typical content.,Medium,Visual,responsive;content;edge-cases;robustness
+48,Use Autofill-Friendly Form Attributes,Add correct autocomplete attributes to form fields to enable browser autofill for faster form completion.,Medium,Interaction,autofill;forms;performance;accessibility
+49,Implement Gesture Navigation,Support common gestures (swipe pull-to-refresh) on touch devices where they add value.,Medium,Interaction,gestures;mobile;touch;swipe
+50,Design Accessible Tables,Data tables need proper th scope headers and caption elements for screen reader compatibility.,High,Accessibility,tables;data;a11y;screen-readers
+51,Use Anchor Links for Long Pages,Long content pages should use jump navigation links to help users navigate to specific sections quickly.,Medium,Navigation,anchor-links;navigation;long-form;content
+52,Avoid Infinite Horizontal Scroll,Horizontal scroll is unexpected and hard to use except in specific contexts like image galleries or carousels.,Medium,Navigation,scroll;horizontal;UX;navigation
+53,Implement Exit Intent Handling,For forms or multi-step processes warn users before losing unsaved work with browser beforeunload events.,High,Interaction,exit-intent;data-loss;warning;UX
+54,Optimize Time to Interactive,TTI should be under 3.8 seconds. Defer non-critical JavaScript and use code splitting.,High,Performance,TTI;performance;JavaScript;code-splitting
+55,Design Responsive Data Tables,Data tables on mobile should adapt with horizontal scroll column hiding or card-based views.,Medium,Visual,tables;responsive;mobile;data
+56,Use Consistent Button Styles,Define primary secondary and tertiary button styles. Consistently apply them throughout the application.,Medium,Visual,buttons;consistency;design-system;components
+57,Implement Contextual Help,Provide in-context tooltips help icons and documentation links near complex features.,Medium,Interaction,help;tooltips;onboarding;documentation
+58,Design for Touch Hover States,On touch devices hover states should not be relied upon. Ensure all hover-only content has a touch-accessible equivalent.,High,Accessibility,hover;touch;mobile;a11y
+59,Use Appropriate Link Colors,Links should be visually distinguishable from surrounding text without relying solely on color.,High,Accessibility,links;color;a11y;contrast
+60,Implement Caching Strategies,Use appropriate caching for static assets API responses and user data to improve repeat visit performance.,Medium,Performance,caching;performance;CDN;service-worker
+61,Design Accessible Modals,Modal dialogs must trap focus manage keyboard navigation and return focus to trigger element on close.,High,Accessibility,modals;focus-trap;a11y;ARIA
+62,Avoid Auto-Playing Media,Never autoplay video or audio content with sound. Users find unexpected audio intrusive and disorienting.,High,Interaction,autoplay;media;audio;UX
+63,Use Data Visualization Best Practices,Choose chart types appropriate for data relationships. Use clear labels appropriate scales and accessible colors.,Medium,Visual,charts;data-visualization;accessibility;readability
+64,Implement Print Stylesheets,Provide print-friendly styles that remove navigation ads and unnecessary UI chrome for printing.,Low,Visual,print;CSS;accessibility
+65,Design Effective Onboarding Flows,First-time user onboarding should be contextual minimal and focused on delivering core value quickly.,High,Interaction,onboarding;FTUX;activation;retention
+66,Use Semantic Versioning for APIs,API endpoints should use versioning to prevent breaking changes for existing consumers.,Medium,Navigation,API;versioning;developer-experience
+67,Optimize Web Font Loading,Use font-display: swap to prevent invisible text during font loading. Preload critical font files.,Medium,Performance,fonts;performance;font-display;FOUT
+68,Design Accessible Custom Controls,Custom UI controls (dropdowns sliders toggles) must fully replicate native accessibility behavior.,High,Accessibility,custom-controls;ARIA;a11y;keyboard
+69,Implement CSP Headers,Content Security Policy headers protect against XSS attacks and should be implemented on all applications.,High,Accessibility,security;CSP;XSS;headers
+70,Use Appropriate Whitespace,Generous whitespace reduces cognitive load and increases readability. Don't compress designs excessively.,Medium,Visual,whitespace;readability;breathing-room;layout
+71,Design Mobile-First Layouts,Build layouts starting from the smallest viewport and enhance for larger screens.,High,Visual,mobile-first;responsive;layout;progressive-enhancement
+72,Implement Accessible Carousels,Carousels and sliders need pause controls keyboard navigation and appropriate ARIA labels.,Medium,Accessibility,carousels;a11y;ARIA;keyboard
+73,Use Clear Page Titles,Each page must have a unique descriptive title in the browser tab for navigation and SEO.,High,Navigation,page-titles;SEO;navigation;a11y
+74,Design for Low Bandwidth,Optimize assets and implement progressive loading for users on slow network connections.,Medium,Performance,bandwidth;performance;progressive-loading;accessibility
+75,Implement Status Pages,System status pages build trust. Show real-time service health uptime metrics and incident history.,Low,Navigation,status;trust;reliability;communication
+76,Use Logical Focus Order,Tab focus order must follow the visual and logical reading order of the interface.,High,Accessibility,focus-order;a11y;keyboard;tab
+77,Avoid Overusing Modals,Modals interrupt workflow. Use inline editing expandable sections or sidepanels as less disruptive alternatives.,Medium,Interaction,modals;workflow;UX;alternatives
+78,Design Consistent Alert Styles,Success warning error and info alerts should use consistent colors icons and positioning.,Medium,Visual,alerts;feedback;consistency;components
+79,Implement ARIA Landmarks,Use ARIA landmark roles (main nav aside header footer) to give screen reader users quick navigation.,High,Accessibility,ARIA;landmarks;screen-readers;navigation
+80,Test with Real User Data,Use production-like data in testing. Edge cases (long names empty states special characters) reveal critical bugs.,High,Interaction,testing;data;edge-cases;quality
+81,Design for One-Handed Mobile Use,Critical actions and navigation should be reachable with one hand. Consider bottom navigation patterns.,Medium,Interaction,mobile;one-handed;ergonomics;accessibility
+82,Implement Localization Support,Build i18n into the architecture from the start. Retrofitting localization is costly and error-prone.,Medium,Accessibility,i18n;localization;internationalization;architecture
+83,Use Consistent Terminology,Use the same words for the same concepts throughout the UI. Inconsistent vocabulary creates confusion.,High,Visual,terminology;vocabulary;consistency;UX-writing
+84,Reduce Motion for Accessibility,Respect prefers-reduced-motion media query. Provide non-animated alternatives for users with vestibular disorders.,High,Accessibility,reduced-motion;a11y;animation;vestibular
+85,Implement Content Security Headers,Add security headers (X-Frame-Options HSTS X-Content-Type-Options) to all web applications.,High,Performance,security;headers;XSS;HSTS
+86,Design Accessible Tooltips,Tooltips must be accessible via keyboard hover and must not contain critical information unavailable elsewhere.,Medium,Accessibility,tooltips;a11y;keyboard;ARIA
+87,Use Data Tables for Tabular Data,Data structured in rows and columns belongs in a table not a visual grid built with divs.,High,Accessibility,tables;semantic-html;data;a11y
+88,Optimize LCP Performance,Largest Contentful Paint should be under 2.5 seconds. Optimize hero images and critical resources.,High,Performance,LCP;performance;Core-Web-Vitals;images
+89,Design Accessible Dropdowns,Dropdown menus need proper ARIA roles keyboard navigation and visible focus states.,High,Accessibility,dropdowns;a11y;ARIA;keyboard
+90,Implement Route-Based Code Splitting,Split JavaScript bundles by route to reduce initial load time and improve performance.,High,Performance,code-splitting;bundles;performance;routing
+91,Use Descriptive Button Labels,Buttons should describe what they do. Avoid generic labels like "Click here" or "Submit".,High,Visual,buttons;labels;accessibility;copy
+92,Design for Interruption,Users are often interrupted mid-task. Auto-save forms preserve scroll position and draft states reduce frustration.,Medium,Interaction,interruption;auto-save;resilience;state
+93,Implement Progressive Web App Features,Add PWA capabilities (manifest service worker install prompt) for improved mobile experience.,Medium,Performance,PWA;mobile;offline;performance
+94,Use Accessible Rich Internet Applications,Complex widgets must use ARIA roles properties and states to communicate purpose to assistive technologies.,High,Accessibility,ARIA;rich-applications;a11y;screen-readers
+95,Design for Dark Mode,Support prefers-color-scheme media query. Ensure all assets colors and images work in both light and dark modes.,Medium,Visual,dark-mode;theming;CSS;accessibility
+96,Implement Cumulative Layout Shift Prevention,Explicitly set image and video dimensions to prevent layout shifts. Target CLS score below 0.1.,High,Performance,CLS;Core-Web-Vitals;layout-shift;performance
+97,Use Predictable Navigation Patterns,Follow platform conventions for navigation. Users should not need to learn new navigation paradigms.,High,Navigation,navigation;conventions;mental-model;usability
+98,Design Accessible Search,Search components need proper ARIA labels live region announcements for results and keyboard navigation.,High,Accessibility,search;a11y;ARIA;live-regions
+99,Implement Content Delivery Networks,Serve static assets from CDN locations closest to users to reduce latency globally.,Medium,Performance,CDN;performance;latency;global

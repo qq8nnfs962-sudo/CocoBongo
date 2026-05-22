@@ -1,0 +1,97 @@
+id,name,primary,secondary,accent,background,surface,text,description,mood
+1,Midnight Crypto,#7C3AED,#2563EB,#06B6D4,#030712,#111827,#F9FAFB,Dark OLED background with vibrant purple and cyan accents,Energetic and bold
+2,Ocean Depth,#0EA5E9,#6366F1,#34D399,#0F172A,#1E293B,#F1F5F9,Deep navy tones with sky blue and emerald highlights,Calm and professional
+3,Sunset Blaze,#F97316,#EF4444,#FBBF24,#0C0A09,#1C1917,#FAFAF9,Warm sunset colors against dark charcoal backgrounds,Warm and passionate
+4,Forest Mist,#22C55E,#16A34A,#4ADE80,#F0FDF4,#DCFCE7,#14532D,Natural green palette with light misty backgrounds,Fresh and natural
+5,Arctic Pulse,#60A5FA,#818CF8,#C084FC,#F8FAFC,#EFF6FF,#1E3A5F,Cool icy blues with soft purple accents on white,Crisp and clean
+6,Ember Glow,#DC2626,#B91C1C,#F59E0B,#1C0A00,#2D1200,#FEF3C7,Deep red ember tones with amber highlights,Intense and dramatic
+7,Lavender Dream,#A78BFA,#8B5CF6,#C4B5FD,#F5F3FF,#EDE9FE,#2E1065,Soft lavender and violet palette on light backgrounds,Dreamy and creative
+8,Neon City,#22D3EE,#A21CAF,#4ADE80,#030711,#0F172A,#E2E8F0,Vibrant neon accents on ultra dark OLED black,Electric and futuristic
+9,Golden Hour,#F59E0B,#D97706,#FCD34D,#FEFCE8,#FEF9C3,#713F12,Rich gold and amber tones creating warmth,Luxurious and warm
+10,Rose Quartz,#F472B6,#EC4899,#FB7185,#FFF1F2,#FFE4E6,#881337,Soft pink and rose palette with feminine elegance,Romantic and soft
+11,Slate Minimal,#64748B,#475569,#94A3B8,#FFFFFF,#F8FAFC,#0F172A,Clean slate grays with subtle blue undertones,Professional and minimal
+12,Deep Purple,#7E22CE,#6D28D9,#A855F7,#0D0618,#1A0433,#FAF5FF,Rich deep purple with vivid violet accents,Mysterious and creative
+13,Teal Clarity,#0D9488,#0F766E,#2DD4BF,#F0FDFA,#CCFBF1,#134E4A,Teal and turquoise with clean white backgrounds,Clear and refreshing
+14,Carbon Black,#3F3F46,#27272A,#A1A1AA,#09090B,#18181B,#FAFAFA,Minimal charcoal grays with zinc accents,Sleek and modern
+15,Cyber Green,#22C55E,#16A34A,#86EFAC,#030D06,#0A1F0E,#DCFCE7,Hacker-style green on near-black backgrounds,Technical and focused
+16,Coral Reef,#F97316,#EA580C,#FB923C,#FFF7ED,#FFEDD5,#7C2D12,Coral and orange warm palette,Friendly and energetic
+17,Indigo Depths,#4338CA,#3730A3,#818CF8,#1E1B4B,#312E81,#E0E7FF,Deep indigo with lighter blue highlights,Trustworthy and deep
+18,Mint Fresh,#10B981,#059669,#6EE7B7,#ECFDF5,#D1FAE5,#065F46,Fresh mint greens with clean backgrounds,Fresh and healthy
+19,Volcanic Ash,#78716C,#57534E,#A8A29E,#1C1917,#292524,#FAFAF9,Warm neutral grays inspired by volcanic stone,Grounded and neutral
+20,Electric Violet,#8B5CF6,#7C3AED,#DDD6FE,#0D0520,#160830,#F5F3FF,Electric purple on deep dark background,Powerful and electric
+21,Sakura Pink,#FB7185,#F43F5E,#FCA5A5,#FFF5F6,#FFE4E6,#881337,Delicate cherry blossom pink tones,Delicate and beautiful
+22,Sky High,#38BDF8,#0EA5E9,#7DD3FC,#F0F9FF,#E0F2FE,#075985,Bright sky blues with clean airy backgrounds,Open and optimistic
+23,Obsidian,#1F2937,#111827,#374151,#030712,#0F172A,#F9FAFB,Near-black obsidian grays with subtle depth,Sophisticated and dark
+24,Mango Tango,#F59E0B,#D97706,#FDE68A,#FFFBEB,#FEF3C7,#713F12,Vibrant mango and golden yellow tones,Joyful and energetic
+25,Frost White,#BFDBFE,#93C5FD,#60A5FA,#EFF6FF,#DBEAFE,#1E3A5F,Frosty light blues and whites,Pure and clean
+26,Charcoal Rose,#FB7185,#F43F5E,#FDA4AF,#0F0812,#1F1025,#FCE7F3,Dark moody background with vivid rose accents,Edgy and romantic
+27,Forest Night,#166534,#15803D,#4ADE80,#052E16,#064E3B,#DCFCE7,Dark forest greens with bright emerald accents,Natural and mysterious
+28,Blazing Orange,#EA580C,#C2410C,#FB923C,#431407,#6C1E06,#FED7AA,Intense orange flames on dark red-brown,Bold and energetic
+29,Cool Gray Pro,#6B7280,#4B5563,#9CA3AF,#F9FAFB,#F3F4F6,#111827,Professional cool grays for business interfaces,Professional and clean
+30,Aurora Borealis,#6EE7B7,#818CF8,#C084FC,#030D1A,#071428,#E0F2FE,Northern lights colors on deep dark sky,Magical and dynamic
+31,Crimson Dark,#B91C1C,#991B1B,#FCA5A5,#1A0808,#2D0F0F,#FEE2E2,Deep crimson on near-black for drama,Dramatic and intense
+32,Aqua Marine,#06B6D4,#0891B2,#67E8F9,#ECFEFF,#CFFAFE,#083344,Aqua and cyan tones with light backgrounds,Fresh and aquatic
+33,Champagne Gold,#D97706,#B45309,#FCD34D,#FEFCE8,#FEF9C3,#451A03,Elegant champagne and gold tones,Elegant and luxurious
+34,Plum Purple,#9333EA,#7E22CE,#D8B4FE,#3B0764,#4C1D95,#FAF5FF,Rich plum and grape tones,Royal and creative
+35,Sea Salt,#E2E8F0,#CBD5E1,#94A3B8,#FFFFFF,#F8FAFC,#0F172A,Clean sea salt whites and light grays,Minimal and airy
+36,Terra Cotta,#C2410C,#9A3412,#FED7AA,#FFFBEB,#FEF3C7,#431407,Earthy terracotta warm palette,Earthy and warm
+37,Steel Blue,#1D4ED8,#1E40AF,#60A5FA,#EFF6FF,#DBEAFE,#1E3A5F,Professional steel and navy blues,Trustworthy and strong
+38,Neon Pink,#EC4899,#DB2777,#F9A8D4,#0D0618,#1A0433,#FCE7F3,Hot neon pink on deep dark purple,Vibrant and playful
+39,Sage Green,#4D7C0F,#3F6212,#A3E635,#F7FEE7,#ECFCCB,#1A2E05,Earthy sage and lime greens,Natural and balanced
+40,Midnight Blue,#1E3A5F,#1E40AF,#93C5FD,#030712,#0F172A,#F0F9FF,Deep midnight navy on true black,Deep and authoritative
+41,Warm Sand,#D97706,#B45309,#E5D3A3,#FEFCE8,#FEF3C7,#451A03,Warm sandy desert tones,Comfortable and warm
+42,Ice Crystal,#A5B4FC,#818CF8,#C7D2FE,#F8FAFF,#EEF2FF,#1E1B4B,Cool ice crystal blues and purples,Cool and crystalline
+43,Blood Orange,#EA580C,#EF4444,#FED7AA,#1C0A00,#2D1200,#FEF3C7,Bold blood orange with warm highlights,Bold and vivid
+44,Meadow Green,#16A34A,#15803D,#86EFAC,#F0FDF4,#DCFCE7,#14532D,Fresh meadow greens for health and nature,Healthy and fresh
+45,Twilight Purple,#6D28D9,#5B21B6,#A78BFA,#0D0520,#160830,#EDE9FE,Twilight sky purples and violets,Mysterious and beautiful
+46,Desert Dusk,#D97706,#92400E,#FDE68A,#1C1410,#2A1D10,#FEF3C7,Desert dusk warm earth and gold,Warm and atmospheric
+47,Ocean Wave,#0891B2,#0E7490,#22D3EE,#ECFEFF,#CFFAFE,#083344,Dynamic ocean blues in motion,Dynamic and flowing
+48,Rustic Brown,#92400E,#78350F,#D97706,#1C1410,#2A1C0A,#FEF3C7,Rich rustic brown and wood tones,Rustic and authentic
+49,Pearl White,#F1F5F9,#E2E8F0,#CBD5E1,#FFFFFF,#FAFAFA,#0F172A,Clean pearl whites and soft grays,Pure and elegant
+50,Grape Juice,#7C3AED,#6D28D9,#C4B5FD,#1A0A2E,#2D1050,#FAF5FF,Rich grape purple tones,Rich and indulgent
+51,Hazard Yellow,#EAB308,#CA8A04,#FDE047,#FFF9C4,#FEFCE8,#713F12,Bright hazard yellow with bold energy,Attention-grabbing
+52,Cobalt Blue,#2563EB,#1D4ED8,#93C5FD,#EFF6FF,#DBEAFE,#1E3A5F,Classic cobalt and royal blue,Dependable and strong
+53,Smoke Screen,#71717A,#52525B,#A1A1AA,#09090B,#18181B,#F4F4F5,Moody smoke gray tones on dark,Neutral and subtle
+54,Hot Magenta,#C026D3,#A21CAF,#F0ABFC,#0D0A14,#1A0E24,#FAE8FF,Electric magenta on very dark purple,Electric and bold
+55,Bamboo Forest,#4D7C0F,#365314,#86EFAC,#F7FEE7,#ECFCCB,#1A2E05,Natural bamboo and fresh greens,Organic and peaceful
+56,Stellar Black,#1F2937,#111827,#6366F1,#020617,#030712,#F8FAFC,Near-black with subtle indigo hints,Cosmic and dark
+57,Tangerine Pop,#F97316,#EA580C,#FED7AA,#FFFBEB,#FEF3C7,#7C2D12,Bright tangerine and citrus orange,Fresh and zesty
+58,Deep Sea,#0E4D92,#0C3D75,#38BDF8,#030D1A,#051528,#E0F2FE,Deep ocean navy with bright aqua,Depths and mystery
+59,Jade Emperor,#047857,#065F46,#6EE7B7,#ECFDF5,#D1FAE5,#022C22,Imperial jade green tones,Prestigious and balanced
+60,Winter Storm,#93C5FD,#60A5FA,#BFDBFE,#F0F9FF,#EFF6FF,#1E3A5F,Cool winter storm blues and ice,Cool and powerful
+61,Raspberry Sorbet,#E11D48,#BE123C,#FDA4AF,#FFF1F2,#FFE4E6,#4C0519,Rich raspberry and berry red tones,Sweet and intense
+62,Olive Branch,#78716C,#65A30D,#BEF264,#FAFAF9,#F5F5F4,#1C1917,Muted olive and sage neutrals,Calm and earthy
+63,Storm Gray,#374151,#1F2937,#6B7280,#0B1120,#111827,#E5E7EB,Dark storm cloud grays and blues,Powerful and moody
+64,Sunrise Amber,#F59E0B,#D97706,#FDE68A,#0D0A00,#1A1400,#FEF3C7,Warm amber sunrise on dark background,Warm and hopeful
+65,Bubblegum Pop,#EC4899,#F43F5E,#F9A8D4,#FFF0F6,#FCE7F3,#831843,Playful bubblegum pink and rose,Fun and playful
+66,Matrix Green,#22C55E,#16A34A,#4ADE80,#020B04,#041408,#DCFCE7,Classic matrix-style green on black,Technical and cool
+67,Sandstone,#D4A96A,#B8860B,#F5DEB3,#FAF0E6,#FFF8DC,#3D2B1F,Warm sandstone and wheat neutrals,Warm and grounded
+68,Electric Teal,#0D9488,#0F766E,#5EEAD4,#021E1C,#053833,#CCFBF1,Electric teal on very dark green,Bold and refreshing
+69,Royal Crimson,#9F1239,#881337,#FDA4AF,#1A0410,#2D0A1B,#FEE2E2,Deep royal crimson on dark background,Regal and dramatic
+70,Chrome Silver,#9CA3AF,#6B7280,#D1D5DB,#18181B,#27272A,#F9FAFB,Metallic chrome and silver tones,Sleek and metallic
+71,Peacock Teal,#0E7490,#155E75,#22D3EE,#031020,#071B2E,#CFFAFE,Peacock-inspired teal and cyan palette,Vibrant and exotic
+72,Maple Syrup,#92400E,#78350F,#F59E0B,#1C1410,#2A1C0A,#FDE68A,Rich maple and warm amber tones,Cozy and warm
+73,Ultraviolet,#6D28D9,#5B21B6,#A855F7,#0A0415,#150826,#FAF5FF,Deep ultraviolet spectrum purples,Powerful and mystical
+74,Pumpkin Spice,#EA580C,#C2410C,#FED7AA,#1C1205,#2D1C08,#FEF3C7,Warm pumpkin and spice orange tones,Cozy and autumnal
+75,Steel Storm,#334155,#1E293B,#64748B,#020617,#0F172A,#E2E8F0,Steel gray-blue in stormy dark palette,Strong and reliable
+76,Lemon Zest,#EAB308,#CA8A04,#FEF08A,#FEFCE8,#FEFCE8,#713F12,Bright lemon yellow with sunny warmth,Cheerful and bright
+77,Deep Ocean,#1E3A5F,#1E40AF,#38BDF8,#020C1B,#0A1929,#E0F2FE,Deep ocean blues and navy,Vast and powerful
+78,Hot Coral,#F97316,#EF4444,#FCA5A5,#1C0A05,#2D1008,#FEF2F2,Hot coral and salmon warm tones,Tropical and vibrant
+79,Velvet Night,#4C1D95,#3B0764,#A78BFA,#050110,#0D0420,#F5F3FF,Deep velvet purple night sky,Luxurious and mysterious
+80,Morning Dew,#34D399,#10B981,#6EE7B7,#ECFDF5,#D1FAE5,#064E3B,Fresh morning dew greens,Refreshing and new
+81,Rust Belt,#C2410C,#9A3412,#FED7AA,#1A0C05,#2D1608,#FEF3C7,Industrial rust and burnt orange,Industrial and raw
+82,Arctic Ice,#E0F2FE,#BAE6FD,#7DD3FC,#F0F9FF,#EFF6FF,#0C4A6E,Clean arctic whites and ice blue,Pure and cold
+83,Dark Matter,#1F2937,#030712,#818CF8,#020617,#030712,#E5E7EB,Mysterious dark matter with indigo,Cosmic and dark
+84,Neon Lime,#84CC16,#65A30D,#BEF264,#061105,#0D1F08,#ECFCCB,Bright neon lime on dark green,Vibrant and technical
+85,Moonlight Silver,#94A3B8,#64748B,#CBD5E1,#0F172A,#1E293B,#F1F5F9,Soft silver moonlight on dark slate,Subtle and refined
+86,Cinnamon Toast,#D97706,#B45309,#FDE68A,#1A1005,#2A1A08,#FEF9C3,Warm cinnamon and toast brown-gold,Warm and comfortable
+87,Electric Blue,#2563EB,#1D4ED8,#60A5FA,#020C1E,#05142E,#DBEAFE,Bold electric blue on deep navy,Energetic and reliable
+88,Pastel Dream,#A78BFA,#F472B6,#86EFAC,#FAF5FF,#FDF4FF,#4B0082,Soft dreamy pastel lavender pink green,Dreamy and soft
+89,Dark Jade,#047857,#065F46,#10B981,#011F14,#033326,#D1FAE5,Dark rich jade on near-black green,Deep and natural
+90,Copper Kettle,#B45309,#92400E,#FCD34D,#1A0E04,#2A1808,#FEF3C7,Warm copper and brass metallic tones,Warm and metallic
+91,Galaxy Purple,#7C3AED,#5B21B6,#C084FC,#0A0415,#150826,#FAF5FF,Deep galaxy purples with nebula hints,Cosmic and beautiful
+92,Seafoam,#059669,#047857,#34D399,#ECFDF5,#D1FAE5,#022C22,Light seafoam and mint greens,Fresh and calm
+93,Midnight Rose,#DB2777,#BE185D,#FBCFE8,#1A050F,#2D0A1B,#FCE7F3,Midnight rose on deep dark background,Romantic and dark
+94,Nordic Blue,#1E40AF,#1D4ED8,#93C5FD,#EFF6FF,#DBEAFE,#1E3A5F,Nordic minimal blues on clean white,Clean and professional
+95,Amber Dusk,#F59E0B,#D97706,#FDE68A,#0D0A00,#1A1400,#FEF3C7,Warm amber at dusk on dark sky,Atmospheric and warm
+96,Void Black,#18181B,#09090B,#A855F7,#030303,#080808,#F4F4F5,Pure void black with single purple accent,Minimal and extreme
