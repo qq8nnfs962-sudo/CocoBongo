@@ -1,0 +1,68 @@
+id,name,description,tags,use_cases,vibe
+1,Glassmorphism,Frosted glass surfaces with blur effects and transparency creating depth and layering,glass;blur;transparency;frosted;depth,Dashboards;Cards;Modals;Finance apps;Crypto,Ethereal and modern
+2,Neumorphism,Soft extruded interfaces using subtle inner and outer shadows on monochromatic backgrounds,soft-ui;shadows;extruded;tactile;monochrome,Settings panels;Calculators;IoT dashboards;Controls,Tactile and soft
+3,Claymorphism,3D puffy clay-like UI elements with thick borders colorful gradients and depth,clay;3d;puffy;colorful;cartoon,Kids apps;E-learning;Games;Creative tools,Playful and fun
+4,Brutalism,Raw exposed design using bold typography stark contrast and unconventional layouts,bold;raw;contrast;typography;anti-design,Art portfolios;Editorial;Fashion;Music,Bold and rebellious
+5,Minimalism,Clean white space focused layouts with essential elements only and refined typography,clean;whitespace;simple;refined;elegant,SaaS;Corporate;Productivity;Portfolio,Calm and focused
+6,Dark OLED,Pure black backgrounds optimized for OLED screens with vibrant accent colors,dark;oled;black;vibrant;battery-saving,Mobile apps;Dashboards;Developer tools;Media,Sleek and dramatic
+7,AI-Native UI,Futuristic interfaces built for AI interactions with streaming text and generative elements,ai;futuristic;streaming;generative;neural,AI tools;LLM apps;Chatbots;Copilots,Intelligent and fluid
+8,Liquid Glass,Ultra-modern liquid glass aesthetic with dynamic refraction and translucent layers,liquid;glass;refraction;apple;translucent,Premium apps;iOS design;Luxury products,Premium and fluid
+9,Gradient Glass,Rich gradient backgrounds with glassmorphic overlays creating vibrant depth,gradient;glass;colorful;vibrant;layered,Landing pages;Hero sections;Creative apps,Vibrant and immersive
+10,Bold Color,Saturated primary colors with high contrast and energetic compositions,bold;saturated;high-contrast;energetic;primary,Startups;Consumer apps;Marketing;Sports,Energetic and confident
+11,Swiss Style,International typographic style with grid systems clean sans-serifs and functional design,swiss;grid;typography;functional;rational,Corporate;Editorial;Print-inspired;Finance,Rational and precise
+12,Organic Biophilic,Nature-inspired designs using earth tones organic shapes and botanical elements,organic;nature;earth-tones;botanical;biophilic,Sustainability;Wellness;Food;Eco brands,Natural and calming
+13,Editorial,Magazine-inspired layouts with strong typographic hierarchy and photography-driven design,editorial;magazine;typography;photography;layout,Media;Journalism;Blogs;Luxury,Sophisticated and curated
+14,Data-Dense,Information-rich interfaces optimized for displaying complex data with maximum density,data;dense;information;tables;charts,Analytics;Finance;BI tools;Monitoring,Analytical and precise
+15,Retro-Futurism,Nostalgic sci-fi aesthetic combining vintage elements with futuristic technology,retro;futurism;sci-fi;nostalgic;neon,Gaming;Music;Entertainment;Creative,Nostalgic and imaginative
+16,3D Hyperrealism,Photorealistic 3D rendered elements and scenes embedded in UI interfaces,3d;hyperrealism;renders;photorealistic;depth,Gaming;Product showcases;Luxury;Tech,Epic and immersive
+17,Soft UI,Gentle pastel palettes rounded corners and airy spacing creating approachable interfaces,soft;pastel;rounded;airy;gentle,Healthcare;Wellness;Family apps;Beauty,Gentle and approachable
+18,Warm Organic,Cozy earth-toned interfaces with warm neutrals handcrafted textures and natural forms,warm;earthy;cozy;textured;natural,Food;Hospitality;Lifestyle;Artisan,Cozy and inviting
+19,Dark Neon,Black backgrounds with electric neon glow effects cyberpunk aesthetic,dark;neon;cyberpunk;electric;glow,Gaming;Crypto;Nightlife;Entertainment,Electric and edgy
+20,Immersive Editorial,Full-bleed photography with floating text overlays and cinematic compositions,cinematic;full-bleed;photography;immersive;overlay,Travel;Luxury;Fashion;Real estate,Cinematic and grand
+21,Clean Grid,Structured grid-based layouts with clear hierarchy and consistent spacing,grid;structured;clean;hierarchy;systematic,B2B SaaS;Admin panels;Productivity,Orderly and professional
+22,Energetic Bold,Dynamic high-energy interfaces with strong typography motion and vivid colors,energetic;dynamic;motion;bold;vivid,Sports;Fitness;Gaming;Startups,Dynamic and powerful
+23,Pastel Dream,Soft pastel color palettes with dreamy gradients and whimsical illustrations,pastel;dreamy;whimsical;illustrations;soft,Beauty;Fashion;Lifestyle;Social apps,Dreamy and delightful
+24,Monochromatic Pro,Single-hue color systems with careful tonal variation creating sophisticated depth,monochromatic;tonal;sophisticated;depth;refined,Finance;Law firms;Architecture;Luxury,Refined and authoritative
+25,Geometric Abstract,Bold geometric shapes patterns and abstract compositions as primary design elements,geometric;abstract;shapes;patterns;bold,Creative agencies;Art;Tech brands,Creative and dynamic
+26,Neon Noir,Dark cinematic aesthetic with neon accent lighting and film noir influences,noir;neon;cinematic;dark;mysterious,Entertainment;Nightlife;Fashion;Security,Mysterious and dramatic
+27,Material You,Google's adaptive design system with dynamic color extraction and personalization,material;adaptive;google;dynamic-color;personalization,Android apps;Google ecosystem;Mobile,Personal and adaptive
+28,Aurora Gradient,Northern lights inspired gradients with flowing color transitions,aurora;gradient;flowing;colorful;atmospheric,Creative tools;Music;Art platforms,Ethereal and colorful
+29,Skeuomorphism Revival,Modern take on realistic textures and material metaphors with contemporary refinement,skeuomorphic;textures;realistic;materials;tactile,Music apps;Games;Educational tools,Familiar and tangible
+30,Terminal Hacker,Command-line inspired interfaces with monospace fonts and green-on-black aesthetics,terminal;hacker;monospace;cli;green,Developer tools;Security;Tech,Geeky and authentic
+31,Frosted Aurora,Frosted glass surfaces with aurora-inspired gradient backgrounds,frosted;aurora;glass;gradient;ethereal,Premium dashboards;Portfolio sites,Magical and premium
+32,Paper Craft,Layered paper-like UI elements with subtle shadows and tactile textures,paper;layered;craft;tactile;flat,Educational;Creative;Children's apps,Handcrafted and warm
+33,Space Dark,Deep space inspired UI with star fields and cosmic gradient backgrounds,space;cosmic;stars;deep;dramatic,Science;Space tech;Gaming;Astronomy,Vast and inspiring
+34,Neon Brutalism,Combination of brutalist design principles with neon color accents,brutalism;neon;bold;contrast;unconventional,Fashion;Music;Art;Underground culture,Raw and electric
+35,Micro-Interaction Rich,Design systems built around delightful micro-interactions and animations,micro-interactions;animation;delight;motion;responsive,Consumer apps;Games;Social platforms,Delightful and alive
+36,Coastal Light,Light airy designs inspired by coastal aesthetics with ocean-inspired palettes,coastal;light;ocean;airy;fresh,Travel;Wellness;Hospitality;Lifestyle,Fresh and breezy
+37,Corporate Elite,Premium corporate aesthetic with gold accents dark navy and authoritative typography,corporate;gold;navy;premium;authoritative,Finance;Law;Consulting;Enterprise,Powerful and trustworthy
+38,Candy Pop,Vibrant candy-colored palettes with rounded playful shapes and fun patterns,candy;vibrant;playful;rounded;fun,Kids;Consumer;Food;Entertainment,Fun and irresistible
+39,Ink & Paper,Editorial print-inspired designs using ink textures typography and paper tones,ink;paper;print;editorial;typography,Publishing;Books;Articles;Writing,Literary and timeless
+40,Crystal Clear,Ultra-clean transparent UI with crystalline clarity and precision,crystal;transparent;clean;precise;clarity,Finance;Medical;Scientific tools,Pure and precise
+41,Dusk Palette,Rich warm sunset tones transitioning from amber to deep purple,dusk;sunset;warm;amber;purple,Travel;Lifestyle;Creative;Photography,Warm and romantic
+42,Forest Deep,Deep emerald greens and natural wood tones with organic textures,forest;emerald;green;natural;organic,Sustainability;Outdoors;Health;Food,Grounded and natural
+43,Ocean Depth,Deep blue palettes with aquatic gradients and fluid animations,ocean;blue;aquatic;fluid;depth,Marine;Travel;Sports;Science,Calm and deep
+44,Pixel Art,Retro pixel art aesthetics with blocky fonts and 8-bit inspired design,pixel;retro;8-bit;blocky;nostalgic,Gaming;Crypto;Music;Geek culture,Nostalgic and fun
+45,Holographic,Iridescent holographic effects with rainbow-shift colors and metallic surfaces,holographic;iridescent;rainbow;metallic;futuristic,Fashion;Beauty;Music;NFTs,Futuristic and mesmerizing
+46,Handcrafted,Human imperfections celebrated with hand-drawn elements and artisan aesthetics,handcrafted;hand-drawn;artisan;human;imperfect,Creative;Food;Artisan;Small business,Authentic and personal
+47,Luxury Noir,Dark luxury aesthetic with gold accents premium materials and exclusive feel,luxury;noir;gold;premium;exclusive,High-end fashion;Jewelry;Luxury cars,Exclusive and opulent
+48,Scandinavian,Nordic minimalism with functional beauty clean lines and natural materials,scandinavian;nordic;minimal;functional;natural,Interior;Lifestyle;Furniture;Fashion,Pure and functional
+49,Vibrant Startup,Energetic startup aesthetic with bold brand colors and conversion-focused layouts,startup;bold;conversion;energetic;brand,SaaS startups;Apps;Marketing,Ambitious and bold
+50,Neon Pastel,Unusual combination of neon highlights on pastel base colors,neon;pastel;unusual;contrast;quirky,Social media;Gen-Z apps;Fashion,Quirky and trendy
+51,Bauhaus Remix,Modern reinterpretation of Bauhaus principles with primary colors and geometry,bauhaus;geometric;primary-colors;functional;art,Architecture;Design tools;Education,Bold and purposeful
+52,Cinematic Widescreen,Film-inspired 16:9 compositions with cinematic color grading and drama,cinematic;widescreen;film;dramatic;color-grading,Entertainment;Streaming;Events,Dramatic and epic
+53,Monospace Grid,Developer aesthetic with monospace grids code-style UI and technical precision,monospace;grid;developer;technical;code,Developer tools;APIs;Documentation,Technical and precise
+54,Fluid Motion,Interfaces defined by fluid animations morphing shapes and kinetic design,fluid;motion;kinetic;morphing;animated,Creative tools;Art;Motion design,Dynamic and fluid
+55,Prism Light,Light-refracting prism effects with rainbow caustics and spectral colors,prism;light;rainbow;caustics;spectral,Premium;Creative;Photography;Art,Brilliant and luxurious
+56,Nocturnal,Rich nighttime palette with moonlit blues deep purples and silver accents,nocturnal;night;moon;deep-blue;silver,Wellness;Meditation;Sleep apps,Calm and introspective
+57,Sun Bleached,Overexposed high-key aesthetics inspired by sun-bleached photography,bleached;high-key;bright;airy;overexposed,Fashion;Lifestyle;Travel;Beauty,Bright and airy
+58,Brutalist Typography,Type-first design where typography is the primary visual element,typography-first;brutalist;type;expressive;bold,Editorial;Fashion;Magazines,Expressive and loud
+59,Glassmorphism Dark,Dark-mode glassmorphism with deep backgrounds and luminous glass overlays,glass;dark;blur;luminous;depth,Crypto;Finance;Premium dashboards,Dramatic and premium
+60,Electric Cyan,Electric cyan and teal-dominated interfaces with high energy,cyan;teal;electric;energy;bright,Tech;Startup;Developer tools,Electric and fresh
+61,Desert Sand,Warm sandy tones inspired by desert landscapes with subtle textures,desert;sand;warm;earthy;texture,Travel;Hospitality;Wellness;Food,Warm and grounded
+62,Vivid Constructivism,Constructivist art movement inspired design with bold reds yellows and diagonals,constructivism;bold;diagonal;red;yellow,Political;Art;Design;Creative,Bold and revolutionary
+63,Holo Mesh,Holographic mesh grid backgrounds with futuristic depth and dimension,holographic;mesh;grid;futuristic;3d,Tech;Gaming;AI;NFT,Futuristic and technical
+64,Micro Detail,Extreme attention to micro details with rich textures and intricate patterns,micro-detail;texture;intricate;rich;detailed,Luxury;High-end;Craft;Artisan,Rich and meticulous
+65,Quantum Minimal,Quantum-inspired minimalism with uncertainty and emergent visual systems,quantum;minimal;emergent;uncertain;abstract,Science;AI;Research;Technology,Abstract and profound
+66,Social Bright,Social-first design with faces emotions and bright engaging color schemes,social;faces;emotion;bright;engaging,Social media;Community;Dating;Events,Social and vibrant
+67,Chromatic Shift,Color-shifting interfaces that change based on context time or interaction,chromatic;shifting;dynamic;contextual;adaptive,Premium apps;Creative tools;Art platforms,Dynamic and surprising
