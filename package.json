@@ -1,0 +1,31 @@
+{
+  "name": "cocobongo",
+  "version": "1.0.0",
+  "description": "Refresh for CocoBongo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:35671/git/qq8nnfs962-sudo/CocoBongo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.2",
+    "autoprefixer": "^10.5.0",
+    "axios": "^1.16.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.40.0",
+    "next": "^16.2.6",
+    "postcss": "^8.5.15",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwindcss": "^4.3.0"
+  }
+}
