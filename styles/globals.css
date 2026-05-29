@@ -1,8 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
 
 * {
   margin: 0;
@@ -55,11 +55,43 @@ body {
 
 /* Premium button styles */
 .btn-premium {
-  @apply px-8 py-3 bg-gradient-to-r from-gold to-gold-light text-dark-bg font-semibold rounded-lg transition-smooth hover:shadow-lg hover:scale-105 active:scale-95;
+  padding: 0.75rem 2rem;
+  background: linear-gradient(135deg, #D4AF37, #E6C350);
+  color: #0A0E27;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  border: none;
+}
+
+.btn-premium:hover {
+  box-shadow: 0 10px 25px rgba(212, 175, 55, 0.3);
+  transform: scale(1.05);
+}
+
+.btn-premium:active {
+  transform: scale(0.95);
 }
 
 .btn-premium-outlined {
-  @apply px-8 py-3 border-2 border-gold text-gold font-semibold rounded-lg transition-smooth hover:bg-gold hover:text-dark-bg active:scale-95;
+  padding: 0.75rem 2rem;
+  border: 2px solid #D4AF37;
+  color: #D4AF37;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  background: transparent;
+}
+
+.btn-premium-outlined:hover {
+  background-color: #D4AF37;
+  color: #0A0E27;
+}
+
+.btn-premium-outlined:active {
+  transform: scale(0.95);
 }
 
 /* Glass effect */
